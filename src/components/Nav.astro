@@ -44,7 +44,7 @@ const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[]
 								{
 									active:
 										Astro.url.pathname === href ||
-										(href !== '/portfolio' && Astro.url.pathname.startsWith(href)),
+										(href !== '/' && Astro.url.pathname.startsWith(href)),
 								},
 							]}
 							href={href}
