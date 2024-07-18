@@ -1,7 +1,7 @@
 ---
 title: Most mythical Stadiums
 publishDate: 2024-07-14 16:43:00
-img: ../../assets/stock-1.jpg
+img: ./assets/stock-1.jpg
 img_alt: Image d'un stade de football.
 description: |
   Découvrez les stades de football les plus emblématiques du monde.
