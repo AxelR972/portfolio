@@ -1,7 +1,7 @@
 ---
 title: PR-Tracker
 publishDate: 2024-07-14 16:47:00
-img: ./assets/stock-3.jpg
+img: ../../../assets/stock-3.jpg
 img_alt: Logo Github avec cache-oeil.
 description: |
   Application connectée à l'API de GitHub pour y récupérer toutes les informations qu'auront besoin l'utilisateur.
@@ -31,7 +31,7 @@ Nous avons travaillés en méthode agile, avec des sprints d'une semaine, dans u
 					alt="organisation agile"
 					width="480"
 					height="620"
-					src="./assets/Agile.png"
+					src="../../../assets/Agile.png"
 				/>
 
 ---
@@ -45,7 +45,7 @@ Pour ce dernier projet, nous avons appris à travailler avec Symfony, qui nous a
 					alt="maquettes du site"
 					width="480"
 					height="620"
-					src="./assets/tracker.png"
+					src="../../../assets/tracker.png"
 				/>
 
 ---
@@ -58,5 +58,5 @@ Nous avons rencontré pas mal de soucis tout au long de ce projet, notemment la 
 					alt="points positifs et négatifs"
 					width="480"
 					height="620"
-					src="./assets/good.png"
+					src="../../../assets/good.png"
 				/>
