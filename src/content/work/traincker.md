@@ -2,7 +2,7 @@
 title: Traincker
 publishDate: 2024-07-14 16:45:00
 img: ./assets/stock-2.png
-img_alt: deux femmes dans un train en fond avec comme titre choississez votre gare.
+img_alt:
 description: |
   Application permettant à l'utilisateur d'afficher les horaires de ses trains favoris et aussi des gares par lesquelles ils passent.
 tags:
