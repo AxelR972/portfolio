@@ -1,7 +1,7 @@
 ---
 title: PR-Tracker
 publishDate: 2024-07-14 16:47:00
-img: ./assets/stock-3copy.jpg
+img: ../../../assets/stock-3copy.jpg
 description: |
   Application connectée à l'API de GitHub pour y récupérer toutes les informations qu'auront besoin l'utilisateur.
 tags:
