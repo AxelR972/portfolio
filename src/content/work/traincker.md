@@ -14,7 +14,7 @@ tags:
   - Javascript
 ---
 
-## Cotexte
+## Contexte
 
 Pour ce deuxième projet de formation, l'école a mis en place un outil qui s'appelle le "simple MVC" développer par les formateurs pour nous introduire à Symfony et nous apprendre à travailler en MVC. L'idée était de permettre à l'utilisateur de pouvoir consulter les horaires de ses trains et les gares dans lesquelles ils passent mais aussi de pouvoir notifier si un train était en retard. Si il est connecté, il a la possibilité de pouvoir ajouter des trains en favoris.
 
