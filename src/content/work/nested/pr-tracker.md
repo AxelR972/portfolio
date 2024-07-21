@@ -15,7 +15,7 @@ tags:
   - API
 ---
 
-## Cotexte et besoin du client
+## Contexte et besoin du client
 
 Ce dernier projet de formation avait pour but, de mettre en pratique toutes les notions apprises durant ces derniers mois.
 Cette application était donc destinée à un vrai client qui était la Wild Code School, qui voulait un site pour ses formateurs, pour qu'ils puissent avoir une vue transversale et une gestion totale des projets des élèves sur GitHub, c'est pour cela que nous avons développés PR-Tracker grâce à l'API de GitHub.
