@@ -26,13 +26,13 @@ Nous avons fait plusieurs maquettes sur figma pour voir à quoi ressemblerait no
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../assets/figma.png"
+					src="../../assets/figma.png"
 				/>
 <img
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../assets/figma2.png"
+					src="../../assets/figma2.png"
 				/>
 
 ---
@@ -45,7 +45,7 @@ Nous avons développer le site principalement pendant nos heures de formation o�
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../assets/figma3.png"
+					src="../../assets/figma3.png"
 				/>
 
 

@@ -28,7 +28,7 @@ Nous étions 4 développeurs sur ce projet avec un qui s'occupait de la base de 
 					alt="maquette du site"
 					width="480"
 					height="620"
-					src="../assets/traincker.png"
+					src="../../assets/traincker.png"
 				/>
 
 ---
