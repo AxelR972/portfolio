@@ -1,7 +1,7 @@
 ---
 title: Most mythical Stadiums
 publishDate: 2024-07-14 16:43:00
-img: ./assets/stock-1.jpg
+img: /portfolio/assets/stock-1.jpg
 description: |
   Découvrez les stades de football les plus emblématiques du monde.
 tags:
@@ -26,13 +26,13 @@ Nous avons fait plusieurs maquettes sur figma pour voir à quoi ressemblerait no
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../../assets/figma.png"
+					src="../assets/figma.png"
 				/>
 <img
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../../assets/figma2.png"
+					src="../assets/figma2.png"
 				/>
 
 ---
@@ -45,7 +45,7 @@ Nous avons développer le site principalement pendant nos heures de formation o�
 					alt="maquette"
 					width="480"
 					height="620"
-					src="../../assets/figma3.png"
+					src="../assets/figma3.png"
 				/>
 
 
